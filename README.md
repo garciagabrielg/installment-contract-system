@@ -1,1 +1,1 @@
-# installment-contract-system
+# installment-contract-system (exercise using interfaces)
